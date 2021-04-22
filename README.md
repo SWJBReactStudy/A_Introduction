@@ -1,5 +1,11 @@
 # 우리는 이렇게 공부해요!
-[노션](https://www.notion.so/6db3ca251b5f428aa8aa296e4cfd064e)
+https://www.notion.so/6db3ca251b5f428aa8aa296e4cfd064e
+
+ㄴ 노션
+
+https://react.vlpt.us/basic/
+
+ㄴ 교과서
 
 ## #1 Git 과 GitHub Desktop
 
