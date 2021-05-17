@@ -7,6 +7,17 @@ https://react.vlpt.us/basic/
 
 ㄴ 교과서
 
+## 레포들 ( Public만 )
+### 사람들
+- https://github.com/SWJBReactStudy/Hardtack (건우)
+- https://github.com/SWJBReactStudy/Real_Teacher_Han (*동진)
+- https://github.com/SWJBReactStudy/react_eunah (은아)
+- https://github.com/SWJBReactStudy/React_Goguma (한혁)
+
+\*은 선생님 역할의 경험이 있으면 추가합니다.
+### 산출물
+- https://github.com/SWJBReactStudy/ExpGuide
+
 ## #1 Git 과 GitHub Desktop
 
 Git, GitHub Desktop의 사용법을 다룹니다.
